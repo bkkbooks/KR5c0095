@@ -1,0 +1,885 @@
+canonical_identifier: bkk:krp/KR5c0095/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0095/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經集註(二)
+  date: '2015-08-29 00:20:13.983697'
+  source:
+    repository: kanripo
+    path: KR5c0095
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0095_000-CK-KZ-jye.yaml, hash: 'sha256:131305e29c6b2744ccc0c8daced048201caf794ec65f4a9fb2360e78aaa77025'}
+  - {seq: 1, filename: KR5c0095_001-CK-KZ-jye.yaml, hash: 'sha256:b424b38c9dadf7567943e1ce9c328c88a0af6811d429055301635aac61c046d8'}
+  - {seq: 2, filename: KR5c0095_002-CK-KZ-jye.yaml, hash: 'sha256:f197df556f6022891f799f532b76cf5aa3cacaade4d8931c74f17b3fe1286b01'}
+  - {seq: 3, filename: KR5c0095_003-CK-KZ-jye.yaml, hash: 'sha256:d2186c7287b31002f034c68bb1f496c86a2f56d4743ab4fd78c7d46dfac38037'}
+  - {seq: 4, filename: KR5c0095_004-CK-KZ-jye.yaml, hash: 'sha256:41d859484879ccf7c9daa6e0d13b9abbe4b232827abe2343c4464a2238ec4b00'}
+  - {seq: 5, filename: KR5c0095_005-CK-KZ-jye.yaml, hash: 'sha256:10b58644b4f29ccfc49d8ebde66fcd15a54a1e80bb032db2dc410e40a771ce89'}
+  - {seq: 6, filename: KR5c0095_006-CK-KZ-jye.yaml, hash: 'sha256:8167281cc662b8265b181c50723cf512727ed0dfeb1b181a58ec0c4de71ceb8d'}
+  - {seq: 7, filename: KR5c0095_007-CK-KZ-jye.yaml, hash: 'sha256:2d585dd0ed112623bcbec49d36245ebe68cb76ba0d76f00723ac571914736207'}
+  - {seq: 8, filename: KR5c0095_008-CK-KZ-jye.yaml, hash: 'sha256:3cbd60b1a8a7d57fa9193c9afdf4db1667dff2fd85d5242c6fe025b64261ffb8'}
+  - {seq: 9, filename: KR5c0095_009-CK-KZ-jye.yaml, hash: 'sha256:71d0a74a114f2a8ca302bc0444a4832ded5e1726626cb7295b6cc95f2f1765e3'}
+  - {seq: 10, filename: KR5c0095_010-CK-KZ-jye.yaml, hash: 'sha256:72668d598550dbb307ca97cc2e767b1842bdda6df9ea4507fbcaed3fad75d062'}
+  - {seq: 11, filename: KR5c0095_011-CK-KZ-jye.yaml, hash: 'sha256:26c1e3ad52bbd5cb905ed4716dcd36d42dea1ea8ed64ccd15611125b55060510'}
+  - {seq: 12, filename: KR5c0095_012-CK-KZ-jye.yaml, hash: 'sha256:28bda0fc2ba5e39d000fa8798dcbbbf53de5a92936b22c658b91aa2ac7cec346'}
+  - {seq: 13, filename: KR5c0095_013-CK-KZ-jye.yaml, hash: 'sha256:96dde67d7b7d9ef7639ea1825df0e248ae4bd5dd0b8c5028f1ac43c28b337f85'}
+  - {seq: 14, filename: KR5c0095_014-CK-KZ-jye.yaml, hash: 'sha256:a2f5d23b12075f7c0adfd1928edb4fed9f8ee85280afc9e76fca5e540e07b1cf'}
+  - {seq: 15, filename: KR5c0095_015-CK-KZ-jye.yaml, hash: 'sha256:2d78c87ce8a17c516a4a2fe3d59cb33d183b0a0972fe3fdcc3a825f018384ad2'}
+  - {seq: 16, filename: KR5c0095_016-CK-KZ-jye.yaml, hash: 'sha256:03ca6e4de30565f0018a28bd1334aa961a6766f43ee7b76af401df37b37f9724'}
+  - {seq: 17, filename: KR5c0095_017-CK-KZ-jye.yaml, hash: 'sha256:b7138f56e41b779cf7571bb5b0bdcf8082f0d7c1bba8e3de7883a075f50b491f'}
+  - {seq: 18, filename: KR5c0095_018-CK-KZ-jye.yaml, hash: 'sha256:d354b08f551aef122242abcbd95d48ecf38b5165daba79b42a8b0a8795ff9051'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0095_000-CK-KZ-jye.markers.yaml, hash: 'sha256:1bd26c244962a4f543263574ec1db39de7cbab5422b1f0483d7c04a27936af99'}
+  - {seq: 1, role: markers, filename: assets/KR5c0095_001-CK-KZ-jye.markers.yaml, hash: 'sha256:98ee6223b17570ef2feeee0c4c0530ee0824d5b76988a0c320ef51953e373082'}
+  - {seq: 2, role: markers, filename: assets/KR5c0095_002-CK-KZ-jye.markers.yaml, hash: 'sha256:4af38f36efab19cc65c63698525b159bf17a34562f97c1653f93212bcf45ef55'}
+  - {seq: 3, role: markers, filename: assets/KR5c0095_003-CK-KZ-jye.markers.yaml, hash: 'sha256:85950e2c486d87e29d1bd0a092f1492c5282258aa69be37b3a76a000a6019b61'}
+  - {seq: 4, role: markers, filename: assets/KR5c0095_004-CK-KZ-jye.markers.yaml, hash: 'sha256:d2db11a3707bfd2d52b268fe0c821e63982e16bfb0d43e61b21aba2bf802ecce'}
+  - {seq: 5, role: markers, filename: assets/KR5c0095_005-CK-KZ-jye.markers.yaml, hash: 'sha256:e635e499d290c7d7fbe66a075c8be7ce33d6a407d333186bfed5f268d80afad1'}
+  - {seq: 6, role: markers, filename: assets/KR5c0095_006-CK-KZ-jye.markers.yaml, hash: 'sha256:abc5c3ab2ed460726af38f0b79059b075f6f0d5e6b8ac8469105e3d08546eb83'}
+  - {seq: 7, role: markers, filename: assets/KR5c0095_007-CK-KZ-jye.markers.yaml, hash: 'sha256:395889aea3194e2d9d0bce9ffec912d3a78e26edac6709ce4b5716f2ec5c5b57'}
+  - {seq: 8, role: markers, filename: assets/KR5c0095_008-CK-KZ-jye.markers.yaml, hash: 'sha256:3c2be8677cab48e2edfdc86d68f3af01ff0a625ed4c8b55c2ba77deee1ad41aa'}
+  - {seq: 9, role: markers, filename: assets/KR5c0095_009-CK-KZ-jye.markers.yaml, hash: 'sha256:259568f88dabcce8b920b3ba99fbdea870bcda29835db30b4e397b95372b5872'}
+  - {seq: 10, role: markers, filename: assets/KR5c0095_010-CK-KZ-jye.markers.yaml, hash: 'sha256:7f9ca1c995ef2947c3a75607c9de6f4501313237a8e296e3d43d9edd4b1783cb'}
+  - {seq: 11, role: markers, filename: assets/KR5c0095_011-CK-KZ-jye.markers.yaml, hash: 'sha256:ca8127eac17194e33c001d353ee1e277e47098fd6835b8694466396cad6cea35'}
+  - {seq: 12, role: markers, filename: assets/KR5c0095_012-CK-KZ-jye.markers.yaml, hash: 'sha256:a6e89ce8b0b5160afbd2f1bc81034d0060ff0a16c48ac232133dfa7bb7498cdf'}
+  - {seq: 13, role: markers, filename: assets/KR5c0095_013-CK-KZ-jye.markers.yaml, hash: 'sha256:5ebda731394421ddf26086a42e34ff3164a635de848723ad57c113a3f3920acb'}
+  - {seq: 14, role: markers, filename: assets/KR5c0095_014-CK-KZ-jye.markers.yaml, hash: 'sha256:f919e1333e818e98391881ac9e47c1181736b612a718484596d1b02d0d50eb67'}
+  - {seq: 15, role: markers, filename: assets/KR5c0095_015-CK-KZ-jye.markers.yaml, hash: 'sha256:f066c2eb5d554a51a43588c157204ff90ab25f376b247178a4c6d624dc5a6511'}
+  - {seq: 16, role: markers, filename: assets/KR5c0095_016-CK-KZ-jye.markers.yaml, hash: 'sha256:be26d04c6fe307795fd06ffe03fb3f55b6ba79e8ce9bb7c7eda50639f1c2f259'}
+  - {seq: 17, role: markers, filename: assets/KR5c0095_017-CK-KZ-jye.markers.yaml, hash: 'sha256:94dc4b4c15e364fd299084bafff675284f8c1c9b4a9224f30ea2485a7316fb1a'}
+  - {seq: 18, role: markers, filename: assets/KR5c0095_018-CK-KZ-jye.markers.yaml, hash: 'sha256:08e023d2898a7130c2f69ee3ca179500318ad17f9c281729d8e7d015184b30d9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0095_CK-KZ_04p062b
+    span:
+    - body
+    - 0
+    - 2507
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0095_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 3095
+  label: 道可道章第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0095_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 3095
+    - 5272
+  label: 天下皆知章第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0095_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 5272
+    - 6450
+  label: 不尙賢章第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0095_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 1304
+  label: 道冲¶¶<md:KR5c0095_HFL_002-001a>¶章第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0095_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 1304
+    - 2643
+  label: 天地章第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0095_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 2643
+    - 3298
+  label: 谷神章第六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0095_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 3298
+    - 4390
+  label: 天長地久章第七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0095_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 4390
+    - 5849
+  label: 上善若水章第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0095_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 901
+  label: 持而盈之章第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0095_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 901
+    - 5233
+  label: 載營魄章第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0095_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 5233
+    - 6092
+  label: 三十輻章第十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0095_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 6092
+    - 7652
+  label: 五色章第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5c0095_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 2124
+  label: 寵辱章第十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5c0095_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 2124
+    - 3882
+  label: 視之不見章第十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5c0095_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 3882
+    - 6534
+  label: 古之善爲士章第十五¶<md:KR5c0095_HFL_004-015a>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5c0095_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 6534
+    - 8652
+  label: 致虛極章第十六¶<md:KR5c0095_HFL_004-024a>
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0095_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 1210
+  label: 太上章第十七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0095_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 1210
+    - 1856
+  label: 大道廢章第十八
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0095_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 1856
+    - 3075
+  label: 絕聖棄智章第十九
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0095_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 3075
+    - 5867
+  label: 絕學無憂章第二十
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0095_CK-KZ-jye_005-h5
+    span:
+    - body
+    - 5867
+    - 7100
+  label: 孔德之容章第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5c0095_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 2596
+  label: 曲則全章第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5c0095_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 2596
+    - 3870
+  label: 希言自然章第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5c0095_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 3870
+    - 4396
+  label: 跂者不立章第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5c0095_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 4396
+    - 6506
+  label: 有物混成章第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5c0095_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 0
+    - 932
+  label: 重爲輕根章第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5c0095_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 932
+    - 2540
+  label: 善行章第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5c0095_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 2540
+    - 4872
+  label: 知其雄章第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5c0095_CK-KZ-jye_007-h5
+    span:
+    - body
+    - 4872
+    - 6189
+  label: 將欲章第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5c0095_CK-KZ-jye_007-h6
+    span:
+    - body
+    - 6189
+    - 6411
+  label: 以道佐人主章第三十
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5c0095_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 808
+  label: 夫佳兵章第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5c0095_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 808
+    - 2749
+  label: 道常無名章第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5c0095_CK-KZ-jye_008-h3
+    span:
+    - body
+    - 2749
+    - 4484
+  label: 知人者智章第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5c0095_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 1050
+  label: 大道汎兮章第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5c0095_CK-KZ-jye_009-h2
+    span:
+    - body
+    - 1050
+    - 2251
+  label: 執大象章第三十五¶<md:KR5c0095_HFL_009-005a>
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5c0095_CK-KZ-jye_009-h3
+    span:
+    - body
+    - 2251
+    - 3644
+  label: 將欲歙之章第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5c0095_CK-KZ-jye_009-h4
+    span:
+    - body
+    - 3644
+    - 4315
+  label: 道常無爲章第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0095_CK-KZ-jye_010-h1
+    span:
+    - body
+    - 0
+    - 3203
+  label: 上德不德章第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0095_CK-KZ-jye_010-h2
+    span:
+    - body
+    - 3203
+    - 5720
+  label: 昔之得一章第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0095_CK-KZ-jye_010-h3
+    span:
+    - body
+    - 5720
+    - 6334
+  label: 反者道之動章第四十
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5c0095_CK-KZ-jye_011-h1
+    span:
+    - body
+    - 0
+    - 1591
+  label: 上士聞道章第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5c0095_CK-KZ-jye_011-h2
+    span:
+    - body
+    - 1591
+    - 3976
+  label: 道生一章第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5c0095_CK-KZ-jye_011-h3
+    span:
+    - body
+    - 3976
+    - 4785
+  label: 天下之至柔章第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5c0095_CK-KZ-jye_011-h4
+    span:
+    - body
+    - 4785
+    - 5376
+  label: 名與身章第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h1
+    span:
+    - body
+    - 0
+    - 1125
+  label: 大成若缺章第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h2
+    span:
+    - body
+    - 1125
+    - 2475
+  label: 天下有道章第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h3
+    span:
+    - body
+    - 2475
+    - 2946
+  label: 不出戸章第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h4
+    span:
+    - body
+    - 2946
+    - 3650
+  label: 爲學日益章第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h5
+    span:
+    - body
+    - 3650
+    - 5154
+  label: 聖人無常心章第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h6
+    span:
+    - body
+    - 5154
+    - 6612
+  label: 出生入死章第五十
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5c0095_CK-KZ-jye_012-h7
+    span:
+    - body
+    - 6612
+    - 7355
+  label: 道生之章第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5c0095_CK-KZ-jye_013-h1
+    span:
+    - body
+    - 0
+    - 1689
+  label: 天下有始章第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5c0095_CK-KZ-jye_013-h2
+    span:
+    - body
+    - 1689
+    - 2339
+  label: 使我介然章第五十三¶<md:KR5c0095_HFL_013-007a>
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5c0095_CK-KZ-jye_013-h3
+    span:
+    - body
+    - 2339
+    - 3876
+  label: 善建不拔章第五十四¶<md:KR5c0095_HFL_013-009b>
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5c0095_CK-KZ-jye_013-h4
+    span:
+    - body
+    - 3876
+    - 6493
+  label: 含德之厚章第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5c0095_CK-KZ-jye_013-h5
+    span:
+    - body
+    - 6493
+    - 7830
+  label: 知者不言章第五十六
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5c0095_CK-KZ-jye_014-h1
+    span:
+    - body
+    - 0
+    - 927
+  label: 以正治國章第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5c0095_CK-KZ-jye_014-h2
+    span:
+    - body
+    - 927
+    - 2300
+  label: 其政悶悶章第五十八
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5c0095_CK-KZ-jye_014-h3
+    span:
+    - body
+    - 2300
+    - 3704
+  label: 治人事天章第五十九
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5c0095_CK-KZ-jye_014-h4
+    span:
+    - body
+    - 3704
+    - 4336
+  label: 治大國章第六十
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5c0095_CK-KZ-jye_014-h5
+    span:
+    - body
+    - 4336
+    - 5405
+  label: 大國者下流章第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5c0095_CK-KZ-jye_015-h1
+    span:
+    - body
+    - 0
+    - 1279
+  label: 道者萬物之奧章第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5c0095_CK-KZ-jye_015-h2
+    span:
+    - body
+    - 1279
+    - 2344
+  label: 爲無爲章第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5c0095_CK-KZ-jye_015-h3
+    span:
+    - body
+    - 2344
+    - 4151
+  label: 其安易持章第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5c0095_CK-KZ-jye_015-h4
+    span:
+    - body
+    - 4151
+    - 5048
+  label: 古之善爲道章第六十五¶<md:KR5c0095_HFL_015-016a>
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5c0095_CK-KZ-jye_015-h5
+    span:
+    - body
+    - 5048
+    - 5597
+  label: 江海爲百谷王章第六十六
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h1
+    span:
+    - body
+    - 0
+    - 1599
+  label: 天下皆謂章第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h2
+    span:
+    - body
+    - 1599
+    - 1881
+  label: 善爲士章第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h3
+    span:
+    - body
+    - 1881
+    - 2846
+  label: 用兵有言章第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h4
+    span:
+    - body
+    - 2846
+    - 4113
+  label: 吾言甚易知章第七十
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h5
+    span:
+    - body
+    - 4113
+    - 4578
+  label: 知不知章第七十一
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5c0095_CK-KZ-jye_016-h6
+    span:
+    - body
+    - 4578
+    - 5978
+  label: 民不畏威章第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5c0095_CK-KZ-jye_017-h1
+    span:
+    - body
+    - 0
+    - 1905
+  label: 勇於敢則殺章第七十三
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5c0095_CK-KZ-jye_017-h2
+    span:
+    - body
+    - 1905
+    - 2670
+  label: 民常不畏章第七十四
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5c0095_CK-KZ-jye_017-h3
+    span:
+    - body
+    - 2670
+    - 3449
+  label: 民之饑章第七十五¶<md:KR5c0095_HFL_017-011a>
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5c0095_CK-KZ-jye_017-h4
+    span:
+    - body
+    - 3449
+    - 4235
+  label: 人之生章第七十六
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5c0095_CK-KZ-jye_017-h5
+    span:
+    - body
+    - 4235
+    - 5186
+  label: 天之道章第七十七
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5c0095_CK-KZ-jye_018-h1
+    span:
+    - body
+    - 0
+    - 1009
+  label: 天下柔弱章第七十八
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5c0095_CK-KZ-jye_018-h2
+    span:
+    - body
+    - 1009
+    - 2654
+  label: 和大怨章第七十九¶<md:KR5c0095_HFL_018-005a>
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5c0095_CK-KZ-jye_018-h3
+    span:
+    - body
+    - 2654
+    - 4235
+  label: 小國寡民章第八十
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5c0095_CK-KZ-jye_018-h4
+    span:
+    - body
+    - 4235
+    - 5688
+  label: 信言不美章第八十一
+  type: section
+  level: 2
+hash: sha256:0cfbef2c6763dc06bf2a2d88055757c6d06d19b8752b4b06fd792d9ba2752e4a
