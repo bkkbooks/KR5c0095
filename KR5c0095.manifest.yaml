@@ -58,10 +58,10 @@ assets:
   - {seq: 17, filename: KR5c0095_017.yaml, hash: 'sha256:b457c3de5c6f9d1233a6d9015723b2f72cbd86c1a9334958ed075294e124188b'}
   - {seq: 18, filename: KR5c0095_018.yaml, hash: 'sha256:79197410664d07ec0c7b3f0139ef407597869cfc151d13fe5c55e69af1c7c1f5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5c0095_000.markers.yaml, hash: 'sha256:29b3185beef87cdc52e41a0aca78d177e40bcbb0555cebee3047182f4c665009'}
+  - {seq: 0, role: markers, filename: assets/KR5c0095_000.markers.yaml, hash: 'sha256:504d5435b88730ccf4bdcdb48f6b1c48669c19352229ac0790e715535730ce1a'}
   - {seq: 1, role: markers, filename: assets/KR5c0095_001.markers.yaml, hash: 'sha256:679a2c5bee11ae675236023bd1514131fc95da139ba5d266bfe1fcee0a834fd9'}
   - {seq: 2, role: markers, filename: assets/KR5c0095_002.markers.yaml, hash: 'sha256:eeeff030912de1817a027e98a9ff8d255c23bf2672559e1ccbfaec088496f743'}
-  - {seq: 3, role: markers, filename: assets/KR5c0095_003.markers.yaml, hash: 'sha256:f0e0753069335dd02e32bc072cfe3a759488bd433585c9a0aea0bfae1e0512ac'}
+  - {seq: 3, role: markers, filename: assets/KR5c0095_003.markers.yaml, hash: 'sha256:e8ea9a4b15366fda03820238a671f59bbda67258209ac839b51dd27b3998f971'}
   - {seq: 4, role: markers, filename: assets/KR5c0095_004.markers.yaml, hash: 'sha256:71962c13df42627bb1a662ee94f90e71f31fc2e9df50958b4285302a14e0e995'}
   - {seq: 5, role: markers, filename: assets/KR5c0095_005.markers.yaml, hash: 'sha256:246c654fd05d5ebff7652bef647934129530eef8f262f70aa3e8df6d8df5a8cd'}
   - {seq: 6, role: markers, filename: assets/KR5c0095_006.markers.yaml, hash: 'sha256:2e2e2f0af4d3a7178a10ca742e0b13272350fdcdb8642e5882fbc43b22986eb4'}
@@ -268,7 +268,7 @@ table_of_contents:
   label: juan 018
   type: section
   level: 1
-hash: sha256:878655e6acc091bb7073269420da5247d1883f764943b5291252e844f2d9baec
+hash: sha256:fb69b489a89b9784fb5892d51e0e16901ee47d289bd3b931484979c1d7072d8e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
